@@ -25,8 +25,11 @@ The link must be at the end of the line, anything after the link will not be cop
 3. Ensure your daily notes titles are in the format **MMMM Do, YYYY** (example: **November 12th, 2021**)
 4. Run the python script. 
 5. [Optional] Compile the .py file into an .exe file and have it automatically run when your computer starts up.
+
   5.1. Download [Auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/) using pip
+ 
   5.2. Run Auto-py-to-exe and create the exe file. 
+  
   5.3 Copy the file to your startup folder (you can find it on Windows by using Win+R and type shell:startup)
 
 # Example:
