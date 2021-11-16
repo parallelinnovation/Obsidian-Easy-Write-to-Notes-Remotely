@@ -26,3 +26,7 @@ Note that this is still experimental.
 2. Add your obsidian vault folder path and daily notes folder path into the variables "ObsidianVaultFolder" and "DailyNotesFolder". 
 3. Ensure your daily notes titles are in the format **MMMM Do, YYYY** (example: **November 12th, 2021**)
 4. Run the python script. 
+
+# Example:
+
+![](https://preview.redd.it/9xqp6eivmdz71.gif?format=mp4&s=db7714a0ddb43a4d1e05ba78298d39721c16922c)
